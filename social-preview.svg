@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+<rect width="1200" height="630" fill="#1855c8"/>
+<path d="M0 315h1200M600 0v630" stroke="#fff" stroke-opacity=".12"/>
+<text x="76" y="210" fill="#f3f0e6" font-family="Impact, sans-serif" font-size="118">TAUSEEF</text>
+<text x="80" y="316" fill="#ffd23f" font-family="Georgia, serif" font-style="italic" font-size="68">developer &amp; maker</text>
+<rect x="78" y="388" width="550" height="84" rx="42" fill="#0a2a6b" stroke="#f3f0e6" stroke-width="3"/>
+<text x="112" y="445" fill="#f3f0e6" font-family="Arial, sans-serif" font-size="30">WEB · BOTS · WINDOWS APPS</text>
+<rect x="785" y="132" width="320" height="230" rx="15" fill="#f3f0e6"/>
+<rect x="810" y="157" width="270" height="180" rx="8" fill="#08090f"/>
+<text x="832" y="229" fill="#ece8dc" font-family="monospace" font-size="22">&gt; hello, I’m Tauseef</text>
+<path d="M860 362h170l44 60H814z" fill="#d4d0c5" stroke="#0a2a6b" stroke-width="8"/>
+<circle cx="1030" cy="468" r="80" fill="#ffd23f" stroke="#0d0d12" stroke-width="8"/>
+<text x="957" y="485" fill="#0d0d12" font-family="Impact, sans-serif" font-size="43">LET’S</text>
+</svg>
