@@ -1,22 +1,46 @@
-# Tauseef Portfolio
+# Tauseef — Developer Portfolio
 
-A poster inspired portfolio for Tauseef, built with plain HTML, CSS, and JavaScript.
+![Poster style preview](social-preview.svg)
 
-## Run locally
+A personal portfolio built with plain HTML, CSS, and JavaScript. It keeps the original poster inspired look, with paper grain, bold type, and small motion details.
 
-From this folder, start a static server:
+## What’s inside
 
-```powershell
-python -m http.server 8000
-```
+- **Projects:** Yapzone, KAIRO, and CurveX, with links to their GitHub repositories.
+- **Services:** Websites, Discord bots, and Windows apps.
+- **About:** Background, current interests, and development journey.
+- **Contact:** GitHub and Discord links.
+- **Responsive layout:** Navigation and project cards adapt to smaller screens.
+- **Accessibility details:** Keyboard focus styles and reduced motion support.
 
-Then open http://127.0.0.1:8000/.
+## Run it locally
 
-## Files
+No build tools or dependencies are required.
 
-- `index.html` contains the page content and SEO/social metadata.
-- `styles.css` contains the visual design and responsive layout.
-- `script.js` contains the page animations.
-- `social-preview.svg` is the social sharing artwork.
+1. Install Python if it is not already available.
+2. Open a terminal in this repository folder.
+3. Start a local server:
 
-The page links to GitHub and Discord. An email address was not present in the supplied source.
+   ```powershell
+   python -m http.server 8000
+   ```
+
+4. Visit [http://127.0.0.1:8000](http://127.0.0.1:8000).
+
+You can also open `index.html` directly in a browser, though a local server is better for checking the page as a website.
+
+## Project files
+
+| File | Purpose |
+| --- | --- |
+| `index.html` | Page content, links, and SEO/social metadata |
+| `styles.css` | Poster design, animations, and responsive layout |
+| `script.js` | Typing, reveal, and pointer animations |
+| `social-preview.svg` | Social sharing artwork and this README preview |
+
+## Contact
+
+- [GitHub](https://github.com/tauseefwho)
+- [Discord community](https://discord.gg/pRscvg2JD)
+
+The supplied source did not include an email address, so none is listed here.
