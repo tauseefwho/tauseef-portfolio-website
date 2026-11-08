@@ -25,8 +25,8 @@ No build tools or dependencies are required.
    python -m http.server 8000
    ```
 
-4. Visit [http://127.0.0.1:8000](http://127.0.0.1:8000).
-
+4. Visit 
+(https://tauseefwho.github.io/tauseef-portfolio-website/)
 You can also open `index.html` directly in a browser, though a local server is better for checking the page as a website.
 
 ## Project files
